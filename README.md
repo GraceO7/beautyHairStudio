@@ -29,7 +29,7 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/GraceO7/beauty-hair-studio.git
+   git clone https://github.com/GraceO7/beautyHairStudio.git
 
 2. Open the project in your preferred code editor.
 
